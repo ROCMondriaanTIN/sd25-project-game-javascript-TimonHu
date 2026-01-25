@@ -1,4 +1,3 @@
-'use strict'
 
 let bord = [
     [1,1,1,1,1],
@@ -12,6 +11,3 @@ let bord = [
     [2,2,2,2,2],
     [2,2,2,2,2],
 ];
-
-
-console.log(bord)

@@ -1,4 +1,27 @@
 .row div{
-    width: 5vh;
+    height: 10vh;
+}
+.container{
+    width: 100vh;
+}
+
+.vies{
+    border-radius: 100vh;
     height: 5vh;
+}
+
+.selected{
+    border: 2px solid gold;
+}
+
+.p1{
+    background-color:burlywood;
+}
+
+.p2{
+    background-color:black;
+}
+
+.colord{
+    background-color: brown;
 }
