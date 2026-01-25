@@ -1,6 +1,11 @@
 .row div{
     height: 10vh;
 }
+
+body{
+    display: flex
+}
+
 .container{
     width: 100vh;
 }
@@ -20,6 +25,14 @@
 
 .p2{
     background-color:black;
+}
+
+.p1dam{
+    background-color:darkgoldenrod;
+}
+
+.p2dam{
+    background-color:lightslategray;
 }
 
 .colord{
